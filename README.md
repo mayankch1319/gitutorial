@@ -1,3 +1,3 @@
 # gitutorial
 my first git repository
-author mayank choudhary
+<h2>author mayank choudhary</h2>
